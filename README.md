@@ -1,3 +1,6 @@
+https://github.com/Bantikevat769/Bantikevat769/blob/main/Blue%20Illustrative%20Investment%20Blog%20Banner.jpg
+
+
 # 👋 Hi, I'm Banti Kevat!
 
 ## 🌟 About Me
