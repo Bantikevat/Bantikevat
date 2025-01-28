@@ -13,7 +13,8 @@ I'm an enthusiastic and results-driven **Web Developer** specializing in **React
 - 📚 Currently learning **Node.js**, **Express**, and **MongoDB** to enhance my backend skills.
 - 🔗 [Portfolio Website](https://your-portfolio-link.com)
 
----
+---[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;I+love+building+cool+web+projects;Let’s+collaborate+and+create!)](https://git.io/typing-svg)
+
 
 ## 🚀 Tech Stack
 
