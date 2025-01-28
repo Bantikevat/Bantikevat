@@ -1,4 +1,5 @@
 <img src="https://media.istockphoto.com/id/1137735902/vector/software-development-programming-laptop.jpg?s=612x612&w=0&k=20&c=0JmLIfnuHrmkJRhfjVq3ZSqpvqFuAVQ9-k93Su9nGTk=" height="300px" width="1200px">
+<img src="Blue%20Illustrative%20Investment%20Blog%20Banner.jpg"
 ![Welcome Banner](https://github.com/Bantikevat769/Bantikevat769/blob/main/Blue%20Illustrative%20Investment%20Blog%20Banner.jpg)
 
 
