@@ -1,5 +1,5 @@
 
-<img src="Blue%20Illustrative%20Investment%20Blog%20Banner.jpg"
+<img src="Blue%20Illustrative%20Investment%20Blog%20Banner.jpg">
 
 # 👋 Hi, I'm Banti Kevat!
 
