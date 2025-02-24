@@ -11,7 +11,7 @@ I'm an enthusiastic and results-driven **Web Developer** specializing in **React
 - 🌍 Based in **Guna, Madhya Pradesh**.
 - 💼 Open to exciting opportunities in web development and software engineering.
 - 📚 Currently learning **Node.js**, **Express**, and **MongoDB** to enhance my backend skills.
-- 🔗 [Portfolio Website](https://your-portfolio-link.com)
+- 🔗 [Portfolio Website](https://banti-portfolio.netlify.app/))
 
 ---[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;I+love+building+cool+web+projects;Let’s+collaborate+and+create!)](https://git.io/typing-svg)
 
